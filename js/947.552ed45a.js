@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkwisdom_park_visitor"]=self["webpackChunkwisdom_park_visitor"]||[]).push([[947],{4947:function(t,i,e){e.r(i),e.d(i,{default:function(){return l}});var s=function(){var t=this,i=t.$createElement,s=t._self._c||i;return s("div",{staticClass:"home"},[s("van-image",{attrs:{width:"100%",height:"100%",fit:"fill",src:e(3743),alt:"图片加载失败"}})],1)},a=[],n=e(1001),r={},c=(0,n.Z)(r,s,a,!1,null,"cbdab5c0",null),l=c.exports},3743:function(t,i,e){t.exports=e.p+"img/404.77861aa8.png"}}]);
-//# sourceMappingURL=947.552ed45a.js.map
